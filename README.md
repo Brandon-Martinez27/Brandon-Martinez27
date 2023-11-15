@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brandon Martinez
-- 👀 I’m interested in Data, Machine Learning, and Blockchain
-- 🌱 I’m currently learning AWS Cloud, APIs, and Blockchain technology
-- 👨🏻‍💻 I’m looking to collaborate on anything Python or tech related.
+- 👀 I’m a Machine Learning Engineer with experience in Python, SQL, REST APIs, and Docker development
+- 🌱 I’m currently learning AWS Cloud, Generative AI, and building reusable frameworks.
+- 👨🏻‍💻 I’m open to collaborate on anything Python or tech related.
 - 📫 How to reach me: brandonmtz27@me.com
 
 <!---
